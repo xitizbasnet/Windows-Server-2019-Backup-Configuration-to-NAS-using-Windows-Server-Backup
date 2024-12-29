@@ -35,7 +35,7 @@
 1. Open Command Prompt on Windows Server.
 2. Ping the NAS IP address:
    ```bash
-   ping 192.168.1.100
+   192.168.1.100 
    ```
 
 ### 2.3 Access the Shared Folder on NAS
