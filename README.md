@@ -1,3 +1,5 @@
+---
+
 ```markdown
 # Backup Setup Documentation: Windows Server 2019 to NAS
 
@@ -34,9 +36,9 @@
 ### 2.2 Test Network Connectivity to NAS
 1. Open Command Prompt on Windows Server.
 2. Ping the NAS IP address:
-
-   192.168.1.100 
-
+   ```bash
+   ping 192.168.1.100
+   ```
 
 ### 2.3 Access the Shared Folder on NAS
 1. Open File Explorer on Windows Server.
