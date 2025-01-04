@@ -1,8 +1,6 @@
 # Windows Server 2019 Backup Configuration to NAS using Windows Server Backup 🚀
 ---
 
-# Backup Setup Documentation: Windows Server 2019 to NAS
-
 ## System Information
 
 - NAS IP Address: 192.168.1.100
